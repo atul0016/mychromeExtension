@@ -1,0 +1,30 @@
+
+
+# AI/editor config
+.github/
+.vscode/
+
+# Playwright dev artifacts
+.playwright-mcp/
+
+# Nested git repo (separate project)
+advanced-smart-capture/
+
+# Payment page - contains live PayPal client-id
+pay.html
+
+# Build artifacts
+*.zip
+*.crx
+
+# Workflow docs
+PRIVACY-SETUP.md
+PUBLICATION-CHECKLIST.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+
