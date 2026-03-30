@@ -7,8 +7,8 @@ const DEFAULT_PRODUCTS = {
     businessName: 'Pixel Ruler Premium'
   },
   'smart-capture': {
-    usd: '1.00',
-    inr: '99',
+    usd: '2.99',
+    inr: '249',
     businessName: 'Advanced Smart Capture'
   }
 };
