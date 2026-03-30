@@ -13,11 +13,11 @@ class PopupController {
       showGrid: false,
       measureMode: false
     };
-    this.PAYMENT_URL = 'https://rulerguide.netlify.app/pay.html';
+    this.PAYMENT_URL = 'https://as-extension.netlify.app/pay.html';
     this.INSTALL_ID_KEY = 'pixelRulerInstallId';
     
     // *** IMPORTANT: Replace with YOUR Netlify function URL after deploy ***
-    this.VERIFY_URL = 'https://rulerguide.netlify.app/.netlify/functions/verify';
+    this.VERIFY_URL = 'https://as-extension.netlify.app/.netlify/functions/verify';
     
     this.elements = {};
     this.initialized = false;
